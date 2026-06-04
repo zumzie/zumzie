@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&duration=1999&pause=403&color=49F7B6FD&center=true&random=true&width=540&height=40&lines=Work+-%3E+Robotic+Arm;Work+-%3E+Blogsite;Work+-%3E+Network%2B;Work+-%3E+Security%2B;Work+-%3E+Shopify+Integration)](https://git.io/typing-svg)
 
 
-💬 **Me**: Integrations and an Cyber Security enthusiast focusing on offensive development, operating system internals, reverse engineering, and general IT.
+💬 **Me**: Integrations and looking to study Cyber Security while focusing on offensive development, operating system internals, reverse engineering, and general IT.
 
 🌱 **Projects**:
 
