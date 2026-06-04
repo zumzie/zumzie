@@ -23,8 +23,6 @@
 \\___[ Simple blogsite for projects.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Postgresql`
 
-⭐ **Certifications**: `Network+`, `Security+`*`
-
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,javascript,nodejs,bash,powershell,visualstudio,vscode,windows,github,docker)](https://skillicons.dev)
 
